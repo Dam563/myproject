@@ -1,0 +1,98 @@
+body{
+    background-color: skyblue;
+}
+.paragraphOne{
+    color: blueviolet;
+}
+#paragraphTwo{
+    color: red;
+}
+.userDetails{
+border: 1px solid;
+border-collapse: collapse;
+}
+/* div{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px; 
+ } */
+.divOne{
+    border: 1px solid black;
+    border-style: dashed;
+    margin-bottom: 40px;
+    position: sticky;
+    margin-left: 20px;
+}
+.divTwo{
+    border: 1px solid black;
+    background-color: burlywood;
+    border-style: dashed;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+}
+.profilePicture{
+margin-left: 500px;
+}
+   img{
+       width:200px;
+       height: 200px;
+       border-radius: 100px;
+   } 
+   .profileDetails{
+       text-align: center;
+   }
+   .enquiryForm{
+       border: 1px solid black;
+       border-radius: 4px;
+       width: 50%;
+       margin-left: 300px;
+   }
+   input[type=text], input[type=email]{
+       width: 50%;
+       padding: 12px 20px;
+       margin-left: 50px;
+       margin-bottom: 20px;
+       box-sizing: border-box;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       margin-left: 80px;
+   }
+   textarea, select{
+    width: 50%;
+    padding: 12px 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 30px;
+   }
+   input[type=button]{
+       font-size: 30px;
+       background-color: #4caf50;
+       color: white;
+       border: none;
+       margin-bottom: 20px;
+   }
+   footer{
+       background-color: mistyrose;
+       height: 120px;
+       text-align: center;
+   }
+   #profileName{
+    font-size: 30px;
+    font-weight: bold;
+   }
+   #profileDetails{
+       font-size: 15px;
+       font-weight: bold;
+       color: black;
+   }
+   #firstname{
+margin-right: 30px;
+   }
+   #country{
+margin-right: 60px;
+   }
